@@ -1,0 +1,17 @@
+.DS_Store
+*.swp
+
+build/
+DerivedData/
+*.build/
+
+*.xcuserdatad/
+*.xcworkspace/
+*.xcuserdata/
+
+Always_GitBar/Config.plist
+
+.swiftpm/
+Package.resolved
+
+.env
