@@ -1,5 +1,5 @@
 # <center> 🌿 GitBar (for Mac) </center>
-
+<img width="318" height="334" alt="Image" src="https://github.com/user-attachments/assets/53c38c2b-814a-4fd6-8ce6-cf20cd150810" />
 GitBar is a lightweight macOS menu bar application that lets you quickly check your GitHub profile and contribution status directly from your menu bar.
 
 No need to open your browser every time—you can keep track of your GitHub profile with ease.
