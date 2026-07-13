@@ -11,6 +11,18 @@ No need to open your browser every time—you can keep track of your GitHub prof
 - **Lightweight Design**: Uses minimal system resources for efficient performance.
 - **Simple & Intuitive UI**: Just sign in with your GitHub account—no complicated setup required.
 
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/53c38c2b-814a-4fd6-8ce6-cf20cd150810"
+    alt="GitBar Demo"
+    width="320"
+  />
+</p>
+
+<p align="center">
+  <em>Monitor your GitHub profile directly from the macOS menu bar.</em>
+</p>
+
 ---
 
 ## 🚀 GitHub App Setup Guide
